@@ -164,10 +164,10 @@ Ultimately, the committee possesses the power to make crucial decisions regardin
 In situations where committee members find it challenging to make decisions based on past reviews and comments, they can assign an additional reviewer to thoroughly assess the paper and contribute to informed decision-making. 
 
 
-### **2.2.7. Filter by Topic and Reviewer Ratings:**
+### **2.2.7. Filter by Tags:**
 
 
-Committee members can utilise a sophisticated filtering system to categorise papers based on topic names, allowing for streamlined navigation. Additionally, they can filter papers based on the ratings assigned by reviewers, aiding in the efficient identification of noteworthy submissions.
+Committee members can utilise a sophisticated filtering system to categorise papers based on tags,aiding in the efficient identification of noteworthy submissions.
 
 
 ## **2.3. User Classes and Characteristics**
